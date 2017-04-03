@@ -225,8 +225,7 @@ wang17arxiv	|	Understanding Convolution for Semantic Segmentation	|	arxiv	|	2017
 wei16pami	|	STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation	|	pami	|	2015
 wei17arxiv	|	Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach	|	arxiv	|	2017
 weijer07iccv	|	Using High-Level Visual Information for Color Constancy	|	iccv	|	2007
-wen16arxiv	|	"Training Bit Fully Convolutional Network for Fast Semantic Segmentation
-"	|	arxiv	|	2016
+wen16arxiv	|	Training Bit Fully Convolutional Network for Fast Semantic Segmentation	|	arxiv	|	2016
 wong17arxiv	|	SegICP: Integrated Deep Semantic Segmentation and Pose Estimation	|	arxiv	|	2017
 wu16arxiv	|	Bridging Category-level and Instance-level Semantic Image Segmentation	|	arxiv	|	2016
 wu16arxiv	|	High-performance Semantic Segmentation Using Very Deep Fully Convolutional Networks	|	arxiv	|	2016
