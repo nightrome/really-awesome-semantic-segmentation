@@ -244,7 +244,7 @@ zhang14tm	|	Representative Discovery of Structure Cues for Weakly-Supervised Ima
 zhang15cvpr	|	Weakly Supervised Semantic Segmentation for Social Images	|	cvpr	|	2015
 zhang15icra	|	Sensor fusion for semantic segmentation of urban scenes	|	icra	|	2015
 zhang16arxiv	|	Instance-Level Segmentation with Deep Densely Connected MRFs	|	arxiv	|	2016
-zhang16arxiv,zhang17cvpr?	|	Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks	|	arxiv,zhang	|	2016
+zhang16arxiv	|	Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks	|	arxiv,zhang	|	2016
 zhao16arxiv	|	Better Image Segmentation by Exploiting Dense Semantic Predictions	|	arxiv	|	2016
 zhao17arxiv	|	A deep learning model integrating FCNNs and CRFs for brain tumor segmentation	|	arxiv	|	2017
 zhao17arxiv	|	Open Vocabulary Scene Parsing	|	arxiv	|	2017
