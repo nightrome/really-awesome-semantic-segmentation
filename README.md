@@ -1,7 +1,7 @@
 # really-awesome-semantic-segmentation
 A list of all papers on Semantic Segmentation and the datasets they use.
 This site is maintained by Holger Caesar.
-To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com)
+To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-gan](https://github.com/nightrome/really-awesome-gan).
 
 For details which paper uses which dataset, please open the [Google Drive document](https://docs.google.com/spreadsheets/d/1r1PNqpcNyo3E8enQdBz-zze7nMiOUd4lb890WPh7aII/edit?usp=sharing).
 
