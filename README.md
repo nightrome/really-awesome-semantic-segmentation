@@ -5,8 +5,9 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 For details which paper uses which dataset, please open the [Google Drive document](https://docs.google.com/spreadsheets/d/1r1PNqpcNyo3E8enQdBz-zze7nMiOUd4lb890WPh7aII/edit?usp=sharing).
 
-Below is a snapshot of the listed papers from April 28, 2017:
+![Dataset importance plot](http://www.it-caesar.com/github/Dataset_importance.png?raw=true "Dataset importance plot")
 
+Below is a snapshot of the listed papers from April 28, 2017:
 <table>
 <tr>
 <th>Identifier</th><th>Paper title</th><th>Venue</th><th>Year</th><th>PASCAL VOC 2012</th><th>SIFT Flow / LabelMe Outdoor</th><th>MSRC (21/23/v2 and 9/13/v1)</th><th>StanfordBackground</th><th>CamVid (Cambridge Video)</th><th>NYuD (1 or 2)</th><th>Cityscapes</th><th>PASCAL VOC 2011 incl. SBD</th><th>PASCAL CONTEXT</th><th>KITTI</th><th>PASCAL VOC 2010</th><th>PASCAL VOC 2007</th><th>Barcelona</th><th>LM+SUN</th><th>SUN RGB-D</th><th>PASCAL VOC 2008</th><th>PASCAL VOC 2009</th><th>Sowerby</th><th>Corel</th><th>Daimler Urban</th><th>MS COCO</th><th>TU Graz</th><th>SUN</th><th>LabelMe Facade</th><th>MINC (Materials in Context)</th><th>Etrims</th><th>ADE20K</th><th>COCO-Stuff</th><th>Geometric Context</th><th>PASCAL VOC 2006</th><th>Cross Category Object Recognition (CORE)</th><th>PASCAL Person Part</th><th>MHMS 11</th><th>Leuven (+stereo augmented)</th><th>Google Street View</th><th>MDRS3 - Multi-Domain Road Scene Semantic Segmentation</th><th>Vaihingen (ISPRS contest)</th><th>2D-3D-S (Stanford)</th><th>Flickr MFC</th><th>Synthia</th></tr>
