@@ -3,6 +3,8 @@ A list of all papers on Semantic Segmentation and the datasets they use.
 This site is maintained by Holger Caesar.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-gan](https://github.com/nightrome/really-awesome-gan) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
 
+**Note:** We just started the **COCO 2017 Stuff Segmentation Challenge** and invite everyone to participate. For more details, see: [cocodataset.org](http://cocodataset.org)
+
 # Dataset importance
 ![Dataset importance plot](http://www.it-caesar.com/github/Dataset_importance.png?raw=true "Dataset importance plot")
 
