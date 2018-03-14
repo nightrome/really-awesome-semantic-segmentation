@@ -1,8 +1,7 @@
 # really-awesome-semantic-segmentation
 A list of all papers on Semantic Segmentation and the datasets they use.
-This site is maintained by Holger Caesar.
+This site is maintained by Holger Caesar. From March 15, 2018, it will not be updated anymore.
 To complement or correct it, please contact me at holger-at-it-caesar.com or visit [it-caesar.com](http://www.it-caesar.com). Also checkout [really-awesome-gan](https://github.com/nightrome/really-awesome-gan) and our [COCO-Stuff dataset](https://github.com/nightrome/cocostuff).
-Note: From March 15 2018, this site will not be updated anymore.
 
 # Dataset importance
 ![Dataset importance plot](http://www.it-caesar.com/github/Dataset_importance.png?raw=true "Dataset importance plot")
