@@ -10,6 +10,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 For details which paper uses which dataset, please open the [Google Drive document](https://docs.google.com/spreadsheets/d/1r1PNqpcNyo3E8enQdBz-zze7nMiOUd4lb890WPh7aII/edit?usp=sharing).
 
 # Survey papers
+- [RTSeg: Real-time Semantic Segmentation Comparative Study](https://arxiv.org/abs/1803.02758)
 - [Indoor Scene Understanding in 2.5/3D: A Survey](https://arxiv.org/abs/1803.03352)
 - [A 2017 Guide to Semantic Segmentation with Deep Learning by Qure AI](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 - [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/abs/1704.06857)
